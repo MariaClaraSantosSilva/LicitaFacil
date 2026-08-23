@@ -15,7 +15,7 @@ Muitas prefeituras de pequeno porte ainda gerenciam seus processos licitatórios
 
 O **Licita Fácil** foi desenvolvido para resolver esse gargalo: um sistema **100% offline**, sem necessidade de banco de dados relacional ou servidor dedicado, garantindo conformidade legal, rastreabilidade total e custo zero de infraestrutura.
 
-Este projeto foi criado como trabalho final da disciplina de **Programação II (2026.1)** no curso de Ciência da Computação / Engenharia da **Universidade de Pernambuco (UPE) — Campus Surubim**.
+Este projeto foi criado como trabalho final da disciplina de **Programação II (2026.1)** no curso de Sistemas de Informação da **Universidade de Pernambuco (UPE)**.
 
 ---
 
